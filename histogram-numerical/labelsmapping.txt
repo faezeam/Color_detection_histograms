@@ -1,0 +1,1 @@
+0:abi ,1:abi-r ,2:abi-t ,3:bad ,4:bej-1 ,5:bej-2 ,6:bej-3 ,7:ghah ,8:ghah-2 ,9:ghah-t ,10:gher ,11:gher-r ,12:gher-t ,13:nogh ,14:nokm ,15:nokm-t ,16:sabz-r1 ,17:sabz-r2 ,18:sabz-t ,19:sefid ,20:sia ,21:sorm ,22:zard ,
