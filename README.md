@@ -2,9 +2,9 @@
 
 ## This repository includes:
 
-  • a histogram calculator
-  • a color detection classifier based on histogram numpy arrays (neural networks + svm)
-  • a color detection classifier based on histogram images (CNN + svm)
+  - a histogram calculator
+  - a color detection classifier based on histogram numpy arrays (neural networks + svm)
+  - a color detection classifier based on histogram images (CNN + svm)
   
   
 ## Histogram Calculator
